@@ -1,7 +1,58 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
+  <component name="BranchesTreeState">
+    <expand>
+      <path>
+        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="LOCAL_ROOT" type="e8cecc67:BranchNodeDescriptor" />
+      </path>
+      <path>
+        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="REMOTE_ROOT" type="e8cecc67:BranchNodeDescriptor" />
+      </path>
+      <path>
+        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="REMOTE_ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="GROUP_NODE:origin" type="e8cecc67:BranchNodeDescriptor" />
+      </path>
+    </expand>
+    <select />
+  </component>
   <component name="ChangeListManager">
-    <list default="true" id="6795edb7-1e49-4a94-bd8e-9522fae0cbb8" name="Default Changelist" comment="" />
+    <list default="true" id="6795edb7-1e49-4a94-bd8e-9522fae0cbb8" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/src/cas/cas.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Multi_Thread/META-INF/Multi_Thread.kotlin_module" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Multi_Thread/singleten_pattern/ErrorLazyPattern.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Multi_Thread/singleten_pattern/ErrorLazyThread.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Multi_Thread/singleten_pattern/HungryPattern.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Multi_Thread/singleten_pattern/LazyPattern1.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Multi_Thread/singleten_pattern/LazyPattern2.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Multi_Thread/singleten_pattern/LazyPattern3.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Multi_Thread/singleten_pattern/LazyPattern4$1.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Multi_Thread/singleten_pattern/LazyPattern4$SingletenSafe.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Multi_Thread/singleten_pattern/LazyPattern4.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Multi_Thread/singleten_pattern/TestErrorLazyPattern.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Multi_Thread/singleten_pattern/TestHungryPattern.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Multi_Thread/singleten_pattern/TestLazyThread1.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Multi_Thread/singleten_pattern/TestLazyThread2.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Multi_Thread/singleten_pattern/TestLazyThread3.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Multi_Thread/singleten_pattern/TestLazyThread4.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Multi_Thread/singleten_pattern/TestLazyThread4_1.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Multi_Thread/suspend_resume/Mythread.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Multi_Thread/suspend_resume/SuspendResumeRun.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Multi_Thread/synchronized_test_4_19/PublicVar.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Multi_Thread/synchronized_test_4_19/Test_synchronized.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Multi_Thread/synchronized_test_4_19/ThreadA.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Multi_Thread/synchronized_test_4_19/doc/synchronized.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Multi_Thread/wait_notify/Consumer.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Multi_Thread/wait_notify/Productor.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Multi_Thread/wait_notify/Run.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Multi_Thread/wait_notify/ThreadC.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Multi_Thread/wait_notify/ThreadP.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Multi_Thread/wait_notify/ValueObect.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Multi_Thread/wait_notify/doc/notify.txt" beforeDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -14,14 +65,18 @@
       </list>
     </option>
   </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
   <component name="ProjectId" id="1aQDtMvQxYS04giNRGgnwiHJD5L" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
   <component name="ProjectViewState">
     <option name="hideEmptyMiddlePackages" value="true" />
-    <option name="showExcludedFiles" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
   <component name="PropertiesComponent">
     <property name="JAVA_HOME" value="D:\Java\jdk1.8.0_101" />
+    <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
     <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="aspect.path.notification.shown" value="true" />
@@ -52,7 +107,20 @@
       <recent name="E:\idea_workspace\Multi_Thread\src\synchronized_test_4_19\doc" />
     </key>
   </component>
-  <component name="RunManager" selected="Application.TestLazyThread2">
+  <component name="RunManager" selected="Application.Cas">
+    <configuration name="Cas" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="cas.Cas" />
+      <module name="Multi_Thread" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="cas.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <configuration name="TestErrorLazyPattern" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="singleten_pattern.TestErrorLazyPattern" />
       <module name="Multi_Thread" />
@@ -105,26 +173,13 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="TestLazyThread4_1" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="singleten_pattern.TestLazyThread4_1" />
-      <module name="Multi_Thread" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="singleten_pattern.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.Cas" />
         <item itemvalue="Application.TestLazyThread2" />
         <item itemvalue="Application.TestHungryPattern" />
         <item itemvalue="Application.TestErrorLazyPattern" />
         <item itemvalue="Application.TestLazyThread1" />
-        <item itemvalue="Application.TestLazyThread4_1" />
       </list>
     </recent_temporary>
   </component>
@@ -157,52 +212,44 @@
       <workItem from="1592355258597" duration="643000" />
       <workItem from="1592372923165" duration="390000" />
       <workItem from="1592373325170" duration="842000" />
+      <workItem from="1605324562463" duration="2153000" />
     </task>
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
-    <option name="version" value="1" />
+    <option name="version" value="2" />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
   </component>
   <component name="WindowStateProjectService">
-    <state x="574" y="122" key="#com.intellij.ide.util.MemberChooser" timestamp="1587784808138">
-      <screen x="0" y="0" width="1536" height="824" />
+    <state width="1876" height="261" key="GridCell.Tab.0.bottom" timestamp="1605326713010">
+      <screen x="0" y="0" width="1920" height="1080" />
     </state>
-    <state x="574" y="122" key="#com.intellij.ide.util.MemberChooser/0.0.1536.824@0.0.1536.824" timestamp="1587784808138" />
-    <state width="1493" height="216" key="GridCell.Tab.0.bottom" timestamp="1589859814504">
-      <screen x="0" y="0" width="1536" height="824" />
+    <state width="1876" height="261" key="GridCell.Tab.0.bottom/0.0.1920.1080@0.0.1920.1080" timestamp="1605326713010" />
+    <state width="1876" height="261" key="GridCell.Tab.0.center" timestamp="1605326713010">
+      <screen x="0" y="0" width="1920" height="1080" />
     </state>
-    <state width="1493" height="216" key="GridCell.Tab.0.bottom/0.0.1536.824@0.0.1536.824" timestamp="1589859814504" />
-    <state width="1493" height="216" key="GridCell.Tab.0.center" timestamp="1589859814504">
-      <screen x="0" y="0" width="1536" height="824" />
+    <state width="1876" height="261" key="GridCell.Tab.0.center/0.0.1920.1080@0.0.1920.1080" timestamp="1605326713010" />
+    <state width="1876" height="261" key="GridCell.Tab.0.left" timestamp="1605326713010">
+      <screen x="0" y="0" width="1920" height="1080" />
     </state>
-    <state width="1493" height="216" key="GridCell.Tab.0.center/0.0.1536.824@0.0.1536.824" timestamp="1589859814504" />
-    <state width="1493" height="216" key="GridCell.Tab.0.left" timestamp="1589859814504">
-      <screen x="0" y="0" width="1536" height="824" />
+    <state width="1876" height="261" key="GridCell.Tab.0.left/0.0.1920.1080@0.0.1920.1080" timestamp="1605326713010" />
+    <state width="1876" height="261" key="GridCell.Tab.0.right" timestamp="1605326713010">
+      <screen x="0" y="0" width="1920" height="1080" />
     </state>
-    <state width="1493" height="216" key="GridCell.Tab.0.left/0.0.1536.824@0.0.1536.824" timestamp="1589859814504" />
-    <state width="1493" height="216" key="GridCell.Tab.0.right" timestamp="1589859814504">
-      <screen x="0" y="0" width="1536" height="824" />
+    <state width="1876" height="261" key="GridCell.Tab.0.right/0.0.1920.1080@0.0.1920.1080" timestamp="1605326713010" />
+    <state x="461" y="184" key="SettingsEditor" timestamp="1605325788607">
+      <screen x="0" y="0" width="1920" height="1080" />
     </state>
-    <state width="1493" height="216" key="GridCell.Tab.0.right/0.0.1536.824@0.0.1536.824" timestamp="1589859814504" />
-    <state x="270" y="0" key="SettingsEditor" timestamp="1591779442854">
-      <screen x="0" y="0" width="1536" height="824" />
-    </state>
-    <state x="270" y="0" key="SettingsEditor/0.0.1536.824@0.0.1536.824" timestamp="1591779442854" />
-    <state x="0" y="0" key="com.intellij.ide.util.TipDialog" timestamp="1590129242623">
-      <screen x="0" y="0" width="1536" height="824" />
-    </state>
-    <state x="0" y="0" key="com.intellij.ide.util.TipDialog/0.0.1536.824@0.0.1536.824" timestamp="1590129242623" />
-    <state x="540" y="115" key="com.intellij.testIntegration.createTest.CreateTestDialog" timestamp="1587086387531">
-      <screen x="0" y="0" width="1536" height="824" />
-    </state>
-    <state x="540" y="115" key="com.intellij.testIntegration.createTest.CreateTestDialog/0.0.1536.824@0.0.1536.824" timestamp="1587086387531" />
-    <state x="499" y="177" key="extract.method.dialog" timestamp="1589445642281">
-      <screen x="0" y="0" width="1536" height="824" />
-    </state>
-    <state x="499" y="177" key="extract.method.dialog/0.0.1536.824@0.0.1536.824" timestamp="1589445642281" />
-    <state x="178" y="108" key="new project wizard" timestamp="1592017884585">
-      <screen x="0" y="0" width="1536" height="824" />
-    </state>
-    <state x="178" y="108" key="new project wizard/0.0.1536.824@0.0.1536.824" timestamp="1592017884585" />
+    <state x="461" y="184" key="SettingsEditor/0.0.1920.1080@0.0.1920.1080" timestamp="1605325788607" />
   </component>
 </project>
